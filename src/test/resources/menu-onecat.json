@@ -1,0 +1,17 @@
+{
+  "menu": {
+    "testCat1": [
+      {
+        "id": 0,
+        "name": "Lamb Kebab",
+        "category": "Kebabs"
+      },
+      {
+        "id": 1,
+        "name": "Kofte Kebab",
+        "category": "More Kebabs"
+      }
+    ]
+  },
+  "restaurantId":"onecat"
+}
